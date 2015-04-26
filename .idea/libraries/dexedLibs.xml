@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jokeCalculator2/jokeCalculator2/bin/dexedLibs/android-support-v7-appcompat-668377e769533ca8f0d64a0aafe6cb2c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jokeCalculator2/jokeCalculator2/bin/dexedLibs/appcompat_v7-3d940d66cdc645c15404b1f809ed6aa4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jokeCalculator2/jokeCalculator2/bin/dexedLibs/bolts-android-1.1.3-76317b0fa1674754c84cc21af71d30ae.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jokeCalculator2/jokeCalculator2/bin/dexedLibs/android-support-v4-2abe9b4bad2cebd9393e672c0c630d1e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jokeCalculator2/jokeCalculator2/bin/dexedLibs/Parse-1.7.1-70011ec6d4b6886dbaa61de32efffa3c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

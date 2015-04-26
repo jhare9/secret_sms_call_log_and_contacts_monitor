@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jokeCalculator2/jokeCalculator2/libs/bolts-android-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jokeCalculator2/jokeCalculator2/libs/android-support-v4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jokeCalculator2/jokeCalculator2/libs/Parse-1.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
